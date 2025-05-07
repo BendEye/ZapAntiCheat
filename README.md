@@ -1,2 +1,2 @@
 # ZapAntiCheat
-Minecraft Prediction AntiCheat for 1.7.10-1.21.5
+Minecraft Prediction AntiCheat for 1.7.10-1.21.5 issue handler
